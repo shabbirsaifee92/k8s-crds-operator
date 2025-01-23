@@ -1,1 +1,1 @@
-# k9s-crds-operator
+# k8s-crds-operator
